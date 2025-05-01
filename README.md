@@ -7,7 +7,9 @@ The Order Report Dashboard provides an interactive visual summary of order data 
 
 📊 Key Features
 ✅ Date Filter: Adjustable order date range to focus on specific periods.
+
 ✅ Category, City, State Filters: Drill down into specific product categories, cities, or states.
+
 ✅ KPI Cards:
 
 Total Orders: 500
